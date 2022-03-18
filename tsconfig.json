@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "outDir": "./build",
+        "strict": true,
+        "moduleResolution": "node"
+    },
+    "include": ["src/**/*"]
+}
